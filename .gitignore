@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.log
+*.mp4
+.env
+.env.local
+backend_url_final.txt
+frontend_url_final.txt
+backend_url_final_utf8.txt
+frontend_url_final_utf8.txt
+get_urls.ps1
